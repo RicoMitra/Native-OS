@@ -1,6 +1,12 @@
 # Deployment
 
-Native OS is prepared for deployment, but deployment should be performed manually after owner confirmation.
+Native OS has been deployed as a separate Vercel project for this application.
+
+Production URL:
+
+```text
+https://native-os-eight.vercel.app
+```
 
 ## Required Separation
 
@@ -25,7 +31,7 @@ Output Directory: .next
 
 No environment variables are required for Version 1.
 
-## Manual Deploy Steps
+## Manual Redeploy Steps
 
 1. Push the repository to GitHub.
 2. Open Vercel and choose **Add New Project**.

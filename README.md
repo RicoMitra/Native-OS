@@ -153,6 +153,12 @@ Do not deploy from the repository root if this project lives inside a larger wor
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for deployment preparation details.
 
+Production deployment:
+
+```text
+https://native-os-eight.vercel.app
+```
+
 ## Suggested GitHub Metadata
 
 Repository description:
